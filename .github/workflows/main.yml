@@ -10,7 +10,7 @@ jobs:
 
     - uses: actions/chekout@v2
     - name: Set up Python
-      uses: acctions/setup-python@v2
+      uses: actions/setup-python@v2
       with:
         python-version: 3.7
     - name: Install dependencies
